@@ -12,4 +12,4 @@ Its Layout
 
 Final Simple Screen
 
-![Screenshot 1](screenshots/Screen3.PNG)
+![Screenshot 1](screenshots/screen3.PNG)
